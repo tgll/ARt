@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="UserDefinedTarget" size="1.000000 1.000000" />
+    <ImageTarget name="CloudRecoTarget" size="1.000000 1.000000" />
+    <ImageTarget name="download2" size="1.000000 1.000000" />
+    <ImageTarget name="28945855_10214534229366060_161158695_o" size="1.000000 1.005492" />
+    <ImageTarget name="fridafrida" size="1.000000 0.993432" />
+  </Tracking>
+</QCARConfig>

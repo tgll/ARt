@@ -1,0 +1,38 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-18780
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=816 outsize=816 ok=1
+Cmd: preprocess
+  error: 2 plat 15 at (64): Can't find include file UnityLightingCommon.cginc
+  insize=2291 outsize=908 ok=0
+Cmd: preprocess
+  insize=1515 outsize=1515 ok=1
+Cmd: preprocess
+  insize=1802 outsize=1067 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (73): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1037 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1140 outsize=508 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (33): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=934 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1913 outsize=1070 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (63): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=1107 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=890 outsize=890 ok=1
+Cmd: preprocess
+  insize=3170 outsize=843 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (40): undeclared identifier 'UnityObjectToClipPos'
+  api=4 type=0 insize=2574 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=690 outsize=690 ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process

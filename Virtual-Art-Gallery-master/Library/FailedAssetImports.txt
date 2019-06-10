@@ -1,0 +1,2 @@
+Assets/Vuforia/Materials/StandardCutout.mat
+Assets/Vuforia/Prefabs/DefaultPlaneIndicator.prefab
